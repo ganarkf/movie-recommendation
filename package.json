@@ -1,6 +1,7 @@
 {
   "name": "movie-recommendation",
-  "version": "0.0.1",
+  "private": true,
+  "version": "0.1.0",
   "type": "module",
   "homepage": "https://gnrkfz.github.io/movie-recommendation",
   "scripts": {
