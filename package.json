@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://gnrkfz.github.io/movie-recommendation",
+  "homepage": "https://ganarkf.github.io/movie-recommendation",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
