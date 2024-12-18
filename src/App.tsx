@@ -217,11 +217,11 @@ function App() {
       <p className="credit">
         Built by{' '}
         <a
-          href="https://github.com/gnrkfz"
+          href="https://github.com/ganarkf"
           target="_blank"
           rel="noopener noreferrer"
         >
-          GNRKFZ
+          GanarKF
         </a>
       </p>
     </>
